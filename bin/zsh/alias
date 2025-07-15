@@ -1,0 +1,5 @@
+#!/usr/bin/env zsh
+
+zy() {
+  __zdp_yazi "$@"
+}
